@@ -1,3 +1,5 @@
 # Welcome to labelim
 
-Here is a startup trying to create a tag-driven chat app project.
+labelim is an experimental startup organization exploring tag-driven communication and structured conversation systems.
+
+The projects here focus on rethinking how people organize, discover, and interact through messages, using labels and metadata as first-class concepts in chat and collaboration.
